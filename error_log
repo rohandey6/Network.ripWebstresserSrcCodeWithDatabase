@@ -1,0 +1,13 @@
+[30-Aug-2020 16:34:53 UTC] PHP Notice:  Undefined variable: odb in /home/hostlaye/public_html/Welcome/index.php on line 373
+[30-Aug-2020 16:34:53 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/hostlaye/public_html/Welcome/index.php:373
+Stack trace:
+#0 {main}
+  thrown in /home/hostlaye/public_html/Welcome/index.php on line 373
+[30-Aug-2020 16:35:01 UTC] PHP Notice:  Undefined variable: odb in /home/hostlaye/public_html/Welcome/index.php on line 373
+[30-Aug-2020 16:35:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/hostlaye/public_html/Welcome/index.php:373
+Stack trace:
+#0 {main}
+  thrown in /home/hostlaye/public_html/Welcome/index.php on line 373
+[10-May-2021 21:12:49 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[10-May-2021 21:12:49 UTC] PHP Warning:  Unknown: failed to open stream: No such file or directory in Unknown on line 0
+[10-May-2021 21:12:49 UTC] PHP Fatal error:  Unknown: Failed opening required '/var/www/vhosts/network.rip/httpdocs/firewall/firewall.php' (include_path='.:/opt/alt/php72/usr/share/pear') in Unknown on line 0
